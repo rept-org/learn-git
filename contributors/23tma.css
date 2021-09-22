@@ -1,11 +1,12 @@
 * {
 	color: #e8e6e3;
-	background-color: #181a1b;
 }
 
 body {
-	margin-left: 24em;
-	margin-right: 24em;
+	margin-left: 22em;
+	margin-right: 22em;
+	margin-top: 4em;
+	background-color: #181a1b;
 }
 
 h1 {
@@ -14,4 +15,10 @@ h1 {
 
 p {
 	font-family: 'Cabin', sans-serif;
+}
+
+#main {
+	background-color: #1e2021;
+	padding: 2em;
+	border-radius: 2em;
 }
