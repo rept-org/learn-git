@@ -1,0 +1,17 @@
+* {
+	color: #e8e6e3;
+	background-color: #181a1b;
+}
+
+body {
+	margin-left: 24em;
+	margin-right: 24em;
+}
+
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+	font-family: 'Cabin', sans-serif;
+}
